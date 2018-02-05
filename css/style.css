@@ -1,0 +1,134 @@
+
+header{
+	background-image: url(../img/Home_11_img_1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 300px;
+	color: #fff;
+}
+#sec-formulario {
+	padding: 80px 0px 100px;
+	text-align: center;
+	
+}
+#sec-formulario h1{
+	font-weight: 400;
+	
+}
+#sec-formulario h1 span{
+	color: #47c9e5;
+	font-weight: 800;
+}
+#sec-formulario form{
+	margin-top: 30px;
+}
+#sec-formulario input{
+	border-radius: 25px;
+	padding-left: 30px;
+	padding-right: 30px;
+	line-height: 40px;
+	height: 40px;
+}
+#sec-formulario .btn{
+	text-transform: uppercase;
+	background-color:  #15bee4;
+	border: 0;
+	border-radius: 100px;
+	color: #fff;
+	padding: 15px;
+	
+}
+.color-blue{
+	color: #15bee4;
+}
+#sec-info article{
+	margin-top:-80px; 
+	background-color: #fff;
+	border-left: 1px solid #efefef;
+	border-top: 1px solid #efefef;
+	border-bottom: 1px solid #efefef;
+}
+#sec-info article:nth-child(1):hover{
+	background-image: url(../img/Home_10_service_1.jpg);
+	background-position: center;
+	background-size: cover;
+	
+}
+#sec-info article:nth-child(2):hover{
+	background-image: url(../img/Home_10_service_2.jpg);
+	background-position: center;
+	background-size: cover;
+}
+#sec-info article:nth-child(3):hover{
+	background-image: url(../img/Home_10_service_3.jpg);
+	background-position: center;
+	background-size: cover;
+}
+#sec-info .info{
+	padding: 80px 5% 80px 5%;
+}
+#sec-info .fa{
+	font-size: 35px;
+	color: #8d8d8d;
+	transition: all 0.3s ease-in-out;
+}
+#sec-info .fa:hover{
+	font-size: 35px;
+	color: #47c9e5;
+	font-weight: 300;
+	transform: translateX(-5px);
+}
+#sec-info h2{
+	color: #333;
+	font-size: 18px;
+}
+#sec-info p{
+	color: #8d8d8d;
+}
+#sec-info .btn{
+	border-radius: 35px;
+	background-color: #f2f2f2;
+	color: #8d8d8d;
+	padding: 16px 36px;
+	border: 0;
+}
+
+
+#sec-testimonials{
+	background-image: url(../img/Home_10_img_3.jpg);
+	background-position: center;
+	background-size: cover;
+	padding: 120px 0px;
+	color: #fff;
+}
+#sec-testimonials img{
+	border-radius: 100px;
+}
+#sec-testimonials .carousel-caption{
+	padding: 0px 130px;
+}
+#sec-testimonials .quote{
+	color: #dfdfdf;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+#sec-testimonials .cite{
+	font-size: 18px;
+}
+#sec-testimonials .cite::before{
+	content: "";
+	border-bottom: 2px solid #fff;
+	width: 20px;
+	height: 5px;
+	padding-left: 5px;
+}
+
+
+
+
+
+
+
+
